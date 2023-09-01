@@ -5,7 +5,7 @@ from datetime import timedelta
 import os
 import mysql.connector as database
 
-#   Establishes connection to the internal database     #
+#   Establishes connection to the internal database     
 
 connection = database.connect( 
     user = "root",
