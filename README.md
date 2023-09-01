@@ -1,3 +1,3 @@
 Database Projects:
 
-    **SCU Senior Design Project:**  
+    _Santa Clara University Senior Design Project:_
